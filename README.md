@@ -28,6 +28,7 @@ The following steps are based on the IBM article.
 | VMWare Fusion  | aarch64 | Ubuntu 24.04.1 LTS             | 6.8.0-52-generic |
 | VMWare Fusion  | aarch64 | Kali Linux 2025.1              | 6.12.13-arm64 |
 | Microsoft WSL2 | x86_64  | Ubuntu 24.04.1 LTS             | 5.15.167.4-microsoft-standard-WSL2 |
+| Microsoft WSL2 | x86_64  | Kali Linux 2025.1              | 5.15.167.4-microsoft-standard-WSL2 |
 | Amazon EC2     | x86_64  | Amazon Linux 2023              | 6.1.124-134.200.amzn2023.x86_64 |
 
 
